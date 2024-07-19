@@ -1,0 +1,54 @@
+/* button {
+  background-color: white;
+  color: black;
+
+  width: 416px;
+  height: 60px;
+}
+.copy {
+  position: absolute;
+  width: 555px;
+  height: 26px;
+}
+.white {
+  background-color: black;
+  color: white;
+}
+.question {
+  font-size: 30px;
+  text-align: center;
+}
+p {
+  text-align: center;
+} */
+.btn {
+  /* Ring us on Skype */
+
+  width: 372.51px;
+  text-align: center;
+  height: 60px;
+  top: 26.67%;
+  bottom: 28.33%;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 27px;
+  border-color: #ffffff;
+
+color: #ffffff;
+}
+.btn1 {
+  width: 372.51px;
+  height: 60px;
+  left: 978px;
+  top: 2875px;
+  color: #ffffff;
+  border: 2px;
+}
+.Button1{
+    margin-top: 5rem;
+    margin-bottom: 20rem;
+
+}

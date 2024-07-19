@@ -1,0 +1,15 @@
+.web {
+  background-color: white;
+  color: black;
+  /* position: absolute; */
+  width: 416px;
+  height: 60px;
+  left: calc(50% - 416px / 2);
+  top: 900px;
+}
+.headers{
+  font-family: "poppins";
+}
+.font{
+  font-family: "roboto";
+}

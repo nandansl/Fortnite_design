@@ -1,0 +1,61 @@
+.card {
+  border: none;
+}
+/* .card-container {
+  position: absolute;
+  left: calc(50% - 865px / 2);
+  display: flex;
+  justify-content: center;
+  margin-top: 200px;
+  flex-wrap: nowrap;
+  gap: 1rem;
+  text-align: center;
+}
+.content span {
+  position: absolute;
+  width: 301px;
+  height: 48px;
+  left: calc(50% - 301px / 2 - 17.5px);
+  top: 1600px;
+
+  font-style: normal;
+  font-weight: 200;
+  font-size: 42px;
+  line-height: 48px;
+
+  display: flex;
+  align-items: center;
+  text-transform: capitalize;
+
+  color: #ffffff;
+}
+.content p {
+  position: absolute;
+  width: 1142px;
+  height: 81px;
+  left: calc(50% - 1142px / 2);
+  top: 1700px;
+
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #ffffff;
+
+  opacity: 0.8;
+}
+*/
+.flex-container {
+  display: flex;
+  gap: 10rem;
+  justify-content: center;
+  font-size: 50px;
+  text-align: center;
+}
+.flex-container h6 {
+  font-size: small;
+}
